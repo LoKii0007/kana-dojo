@@ -303,7 +303,7 @@
     "jlpt": "N2",
     "id": 34,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "漢字の意味を文脈で推測する力が大切だ。",
@@ -312,7 +312,7 @@
     "jlpt": "N2",
     "id": 35,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "週末は友達と映画を見に行くつもりです。",
@@ -321,7 +321,7 @@
     "jlpt": "N4",
     "id": 36,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "電車が遅れていたので、少し遅刻しました。",
@@ -330,7 +330,7 @@
     "jlpt": "N4",
     "id": 37,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この問題は思ったより難しくなかった。",
@@ -338,7 +338,7 @@
     "english": "This problem wasn't as hard as I expected.",
     "jlpt": "N3",
     "id": 38,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
