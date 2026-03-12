@@ -838,7 +838,7 @@
     "correct": "先生は私に日本語を教えました。",
     "explanation": "Recipient takes に with 教える. (Pattern set 6)",
     "id": 105,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
